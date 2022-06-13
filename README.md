@@ -8,16 +8,16 @@ Kelas : TI20D2 <br>
 3. Backup dan Recovery dengan MySQLDUMP <br>
 4. Menulis Script Cronjob <br>
 # Backup dan Recovery Dengan SQL
-<img src = 'login.png' img>
-<img src = 'delete fk.png' img>
-<img src = 'berobat.png' img>
-<img src = 'dokter.png' img>
-<img src = 'obat.png' img>
-<img src = 'pasien.png' img>
-<img src = 'resep.png' img>
-<img src = 'users.png' img> <br>
+<img src = "login.png" img> <br>
+<img src = "delete fk.png" img> <br>
+<img src = "berobat.png" img> <br>
+<img src = "dokter.png" img> <br>
+<img src = "obat.png" img> <br>
+<img src = "pasien.png" img> <br>
+<img src = "resep.png" img> <br>
+<img src = "users.png" img> <br>
 # Backup dan Recovery dengan MySQLDUMP
-<img src = 'mysqldump.png' img> <br>
+<img src = "mysqldump.png" img> <br>
 # Script Cronjob
 CRONTAB-E <br>
 0 0 * * 0 MySQLDUMP –u root –p klinik_312010241 > b_klinik_312010241.sql
